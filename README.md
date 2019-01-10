@@ -1,5 +1,4 @@
 ﻿## [หลักการเขียนโปรแกรมเบื้องต้นทางธุรกิจ](README.md)
-## Principles of Basic Programming for Business
 #### - [บทที่ 1 บทนำ](Chapter01/README.md)
 #### - [บทที่ 2 หลักขั้นตอนวิธีทางคอมพิวเตอร์](Chapter02/README.md)
 #### - [บทที่ 3 การเขียนโปรแกรมด้วยภาษาซี](Chapter03/README.md)
